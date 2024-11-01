@@ -1,7 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Date:1/11/24
-## NAME:Dhivya Dharshini B
+
+## NAME:Dhivya Dharshini B 
 ## REGISTERED NUMBER: 212223240031
 
 # Aim:
